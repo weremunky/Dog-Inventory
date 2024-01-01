@@ -2,7 +2,7 @@
 *
 * Ian Angel
 *
-* Chapter 13, Programming Assignment
+* 
 *
 * March 2023
 *
